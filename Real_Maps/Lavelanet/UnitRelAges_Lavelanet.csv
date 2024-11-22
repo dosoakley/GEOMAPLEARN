@@ -1,0 +1,88 @@
+Group Number,Group Name,NOTATION,DESCR
+0,Quaternary,¡(1),Quarternaire : altérites et formations résiduelles
+0,Quaternary,C,Colluvions
+0,Quaternary,C-F,Colluvions et alluvions associés
+0,Quaternary,E,"Périglaciaire à Actuel : éboulis lités périglaciaires et éboulis récents, dépôts de pentes périglaciaires"
+0,Quaternary,EF,"Eboulis, cône de déjection, alluvions des vallées, dépôts de remaniements, colluvions, limons soliflués"
+0,Quaternary,FC/Lz,Argiles bleues lacustres de Puivert recouvertes par la formation des alluvions et des colluvions
+0,Quaternary,Fy,Alluvions des basses terrasses
+0,Quaternary,Fz,"Alluvions de basses terrasses et basses plaines, galets graviers et sables"
+0,Quaternary,Fz(1),"Actuel et moderne : alluvions des basses plaines, ruisseaux et rivières, graviers et limons, coulée boueuse, loupes de glissement"
+0,Quaternary,Gx,"Gûnz, Mindel : alluvions des hautes terrasses : galets siliceux, argiles sableuses rubéfiées"
+0,Quaternary,Gx(2),"Riss : fluvio-glaciaire, terrasses alluviales, galets siliceux, graviers, argiles sableuses"
+0,Quaternary,Gy(1),"Würm : fluvio-glaciaire de la phase de progression et des stades finaux, formations fluviatiles, nappes alluviales, cônes proglaciaires"
+0,Quaternary,Gy(2),"Würm : alluvions de basses terrases : cailloutis, sables et limons, colluvions variées, éluvions"
+0,Quaternary,hydro,"Réseau hydrologique, Etangs, lacs, rivières"
+0,Quaternary,K,Colluvions et alluvions : formations occupant le fond des dépressions karstiques
+1,Ludien,e7,"Ludien : molasse, marnes et poudingues"
+1,Ludien,e7(2),"Ludien : marnes, calcaire de Villeneuve-la-Comtal, calcaire de Houmoux"
+2,Bartonien,e6,"Bartonien : Molasses de Castelnaudary, calcaires er marnes, bancs calcaires, de poudingues, de grès grossiers"
+2,Bartonien,e6(1),"Bartonien : Molasses de Castelnaudary, calcaires er marnes"
+2,Bartonien,e6(1gr),"Eocène, Bartonien. Conglomérats à forte proportion de galets granitiques"
+2,Bartonien,e6Ca,"Eocène, Bartonien. Molasses de Castelnaudary, sables, argiles et grès"
+3,Ilerdien-Lutétien,e4-5,Ilerdien supérieur à Lutétien : Couches de Léran : Conglomérats
+3,Ilerdien-Lutétien,e4-5(1),Ilerdien supérieur à Lutétien : Couches de Léran : Marnes dominantes
+3,Ilerdien-Lutétien,e4-5(2),Ilerdien supérieur à Lutétien : Poudingues de serres : Complexes conglomératiques dominants
+3,Ilerdien-Lutétien,e4-5(3),Ilerdien supérieur à Lutétien : Poudingues de   Serres : argiles et marnes
+3,Ilerdien-Lutétien,e4-5(4),Ilerdien supérieur à Lutétien : Couche de Belloc : complexes conglomératiques
+3,Ilerdien-Lutétien,e4-5(5),Ilerdien supérieur à Lutétien : Couche de Belloc : intercalations de calcaires gréseux
+3,Ilerdien-Lutétien,e4-5(6),Ilerdien supérieur à Lutétien : Couche de Belloc : lentilles calcaires
+3,Ilerdien-Lutétien,e4-5(7),Ilerdien supérieur à Lutétien : Couche de Belloc : marnes
+3,Ilerdien-Lutétien,e4-6,"Ilerdien supérieur à Bartonien : Poudingues de Palassou : argiles, marnes, conglomérats"
+3,Ilerdien-Lutétien,e4-6(2),"Ilerdien supérieur à Bartonien : Poudingues de Palassou : argiles, marnes, conglomérats, intercalation de marnes à lentilles calcaires"
+3,Ilerdien-Lutétien,e4e,"Eocène, Yprésien-(?)Lutétien. Grès, conglomérats et marno-calcaires bariolés (Couches de Fa et de Léran)"
+3,Ilerdien-Lutétien,e4e(1),"Eocène, Yprésien-(?)Lutétien. Bancs de calcaires lacustres"
+3,Ilerdien-Lutétien,e5(C),"Eocène, Lutétien supérieur basal. Calcaire blanc rosé de Labastide-de-Bousinac"
+3,Ilerdien-Lutétien,e5a(Cg),"Eocène, Lutétien. Molasses avec conglomérats prépondérants (première arrivée de galets issus des séries secondaires), marnes, argiles (Poudingue des serres)"
+3,Ilerdien-Lutétien,e5b,"Eocène, Lutétien moyen . Argiles, poudingues, calcaires"
+3,Ilerdien-Lutétien,e5b-c,"Eocène, Lutétien moyen. Argiles, marnes, poudingues, grès de Saint-Quentin (Couches de Belloc)"
+3,Ilerdien-Lutétien,e5b-c(1),"Eocène, Lutétien moyen. Bancs de calcaires"
+3,Ilerdien-Lutétien,e5b(1),Lutétien moyen : banc de calcaire
+3,Ilerdien-Lutétien,e5c,"Lutétien supérieur basal : calcaires et poudingues compacts, calcaire blanc rosé de Labastide-de-Bousinac"
+3,Ilerdien-Lutétien,e5c(1),"Lutétien supérieur : Molasses de Carcassonne, calcaires et marnes"
+3,Ilerdien-Lutétien,e5d,"Eocène, Lutétien. Molasses, calcaires, marnes et conglomérats à galets de granite et éléments paléozoïques de la chaîne axiale (Couches de Limbrassac)"
+4,Ilerdien,e4a,"Ilerdien inférieur : calcaires à Alveolina cucumiformis, marnes à Operculina cucumiformis, grès, intercalations de conglomérats, marno-calcaires"
+4,Ilerdien,e4a(1),"Ilerdien inférieur à moyen : marnes à Perculina subgranulosa, Turritella trempina, grès, marnes"
+4,Ilerdien,e4a(4),"Ilerdien inférieur à moyen : Grès de Furne : grès et conglomérats, Grès de Furnes à Nummulites, Discocyclines et Alvéolina corbarica"
+4,Ilerdien,e4a(5),"Ilerdien moyen à supérieur : marnes à Nummulites et Turritelles, surmontées de niveaux gréseux, marnes à Operculina subgranulosa et Turritelles, grès quartzeux micacés à Nummulites, Assilines"
+4,Ilerdien,e4a(6),"Ilerdien moyen à supérieur : calcaires à Nummulites atacicus, Discocylina irregularis, marnes à Nummulites et Turritella figolina,  calcaires à Assilina leymeriei"
+4,Ilerdien,e4a(7),"Ilerdien moyen à supérieur : calcaires à nummulites cf. praecursor, grès et conglomérats, marnes noires et grès"
+4,Ilerdien,e4a(8),"Ilerdien moyen à supérieur : calcaires à numulites, calcaires à assilina leymeriei"
+4,Ilerdien,e4a(9),"Ilerdien moyen à supérieur : marnes gréseuses à Alveolina trempina, Nummulites involutus, marnes gréseuses à Nummulites gr. globutus, Eoscutum doncieuxi, marnes à Turritella baicheri"
+4,Ilerdien,e4b-cCA,"Eocène, Ilerdien inférieur-moyen. Calcaires à alvéolines,  marnes à Tympanotonos, grès et marnes continentaux intercalés"
+4,Ilerdien,e4b-cMB,"Eocène, Ilerdien inférieur-moyen. Marnes bleues à operculines et turritelles"
+4,Ilerdien,e4b-d,"Eocène, Ilerdien. Grès à nummulites, marnes rouges"
+4,Ilerdien,e4b-d(1),"Eocène, Ilerdien. Conglomérats du col de la Babourade"
+4,Ilerdien,e4c-d,"Eocène, Ilerdien moyen-supérieur. Marnes à Turritella baicheri,  marnes gréseuses à  Nummulites gr. globulus, marnes gréseuses à Alveolina trempina"
+4,Ilerdien,e4c-d(1),"Eocène, Ilerdien moyen-supérieur. Grès à Alveolina corbarica"
+4,Ilerdien,e4c-d(GM),"Eocène, Ilerdien moyen-supérieur. Grès à nummulites et huîtres, calcaires gréseux et marnes à nummulites, alvéolines, cérithidés et turritelles"
+4,Ilerdien,e4c(M),"Eocène, Ilerdien moyen. Marnes à nummulites, turritelles et huîtres, grès"
+4,Ilerdien,e4c(M)(1),"Eocène, Ilerdien moyen. Calcaires à Assilina leymeriei"
+4,Ilerdien,e4c(M)(2),"Eocène, Ilerdien moyen. Calcaires à Nummulites atacicus et Discocyclina irregularis"
+4,Ilerdien,e4c(M)(3),"Eocène, Ilerdien moyen. Calcaires à Nummulites cf.praecursor, grès et conglomérats"
+5,Thanétien supérieur,e3(5),"Thanétien supérieur : marnes à Ostrea uncifera, marnes à polypiers"
+5,Thanétien supérieur,e3(7),"Thanétien supérieur : marnes rouges parfois gypseuses, intercalations de grès et de conglomérats"
+5,Thanétien supérieur,e3b(C),"Paléocène, Thanétien supérieur. Complexe calcaréo-marneux à Alveolina levis"
+5,Thanétien supérieur,e3b(M),"Paléocène, Thanétien supérieur. Marnes jaunes ou rouges, calcaires lacustres, grès, conglomérats"
+5,Thanétien supérieur,e3b(M)(1),"Paléocène, Thanétien supérieur. Intercalations de grès et de conglomérats"
+6,Thanétien inférieure,e3(1),"Thanétien (partie inférieure) : calcaires à Millioles avec Alveolina primaeva au sommet et plus bas Discocylina seunesi, Nummulitoïdes"
+6,Thanétien inférieure,e3a,"Paléocène, Thanétien inférieur. Calcaires lacustres, marnes à Tympanotonos, calcaires à miliolidés"
+7,Vitrollien,c6b-e1-2,"Maastrichien supérieur et Dano-Montien : Argiles rouges inférieures, grès et conglomérats du Resses, Argiles rouges supérieures, grès et conglomérats de Brénac (faciès vitrollien)"
+7,Vitrollien,e1-2,"Paléocène, Danien-Sélandien. Faciès ""vitrolliens"", marnes rouges à microcodium, lentilles conglomératiques, calcaires palustres"
+8,Rognacien,c6(Cl-p),"Maastrichtien-Danien. Faciès ""rognaciens"", calcaires lacustres-palustres, marnes rouges"
+8,Rognacien,c6b-e1-2(1),Maastrichien supérieur et Dano-Montien : calcaires lacustres (faciès rognacien)
+9,Maastrichtien,c6M,"Maastrichtien. Marnes rouges de la Maurine, argiles rouges silto-gréseuses, lentilles de conglomérats"
+10,Campanien-Maastrichtien 3,c5-6E,Campanien-Maastrichtien. Grès des Estous et grès de Labarre supérieurs
+10,Campanien-Maastrichtien 3,c5c-6a,Campanien supérieur et Maastrichien inférieur : grès de Labarre supérieurs
+11,Campanien-Maastrichtien 2,c5-6a,Maastrichtien inférieur à Campanien : marnes
+12,Campanien-Maastrichtien 1,c5-6,"Campanien à Maastrichtien : grès de Labarre, marnes d'Auzas"
+13,Campanien,c5,"Campanien : calcaires construits de Benaix-Villeneuve-d'Olmes, à Vaccinites robustus, V. archiaci, Hippurites heberti, calcaire à Rudistes de Bédeille"
+14,Santonien-Campanien,c4-5,"Santonien et Campanien indifférenciés : complexe argilo-silteux et marnes bleues de Clarac et de Restouil, Complexe gréso-marneux de Nalzen, Grès de la Jourdane, à Globotruncana fornicata, GI. Arca, GI. Bulloides, GI. Stuartiformis"
+14,Santonien-Campanien,c4b-c5,"Santonien Supérieur et Campanien : marnes bleues de St-Cirac à récifs de Rudistes, localement gréseuses, Marnes bleues à Globotruncana arca, GI. Stuartiformis"
+15,Turonien-Coniacien,C2-3(1),"Turonien à Coniacien : marnes de Pechiquelle, à Marginatruncana indica, M.difformis, Hedbergella flandrini"
+16,Cenomanien-Turonien,c1-2b,"Cénomanien à Turonien moyen : conglomérat de Freychenet, à Praealveolina cretacea, Marginotruncana angusticarinata, marnes de la Pinte : marnes, micrites à Pithonelles, Slumps, coulée de débris"
+16,Cenomanien-Turonien,c1Br,"Cénomanien : brèches stratifiées de Freychenet, marnes et grès à Orbitolines"
+17,Albien-Vraconien,n6c(1),"Albien supérieur et Vraconien : marnes noires schisteuses à spicules de Spongiaires et Orbitolines, brèches, calcaires à floridées"
+18,Albien moyen,n6b,Albien moyen : calcaire urgonien
+19,Aptien supérieur,n5b(1),"Aptien supérieur : calcaires à Mesorbitolina parva, M. minuta, M. texana, Pseudochofatella cuvillieri et Floridées (faciès urgonien), calcschistes"
+20,Oxfordien,j1-5D,"Dogger et Oxfordien : marbres dolomitiques blancs, dolomies noires, dolomies cristallines, calcaires dolomitiques, calcaires à Trocholines, oncolites"

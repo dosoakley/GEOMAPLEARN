@@ -1,0 +1,31 @@
+Group Number,Group Name,NOTATION,DESCR
+0,Quaternary,C,Colluvions indifférenciées (Quaternaire)
+0,Quaternary,CF,Colluvions de versant et de fond de vallon
+0,Quaternary,E,Eboulis (Quaternaire)
+0,Quaternary,Fz,Alluvions fluviatiles actuelles et récentes (Quaternaire-Holocène)
+0,Quaternary,Hydro,"Réseau hydrographique, étangs, lacs, gravières inondées"
+0,Quaternary,LP,Limon des plateaux
+0,Quaternary,X,Remblais divers (Quaternaire-actuel)
+1,Stampien,g1c,Sables et grès de Fontainebleau (Oligocène-Stampien)
+1,Stampien,g1GF,Grès de Fontainebleau en place ou remaniés (grésification quaternaire de sables stampiens dunaires)
+1,Stampien,g1SF,"Sables de Fontainebleau, accessoirement grès en place ou peu remanié (versant)"
+2,Sannoisien supérieur,¡ª,"Argiles à meulières, Meulière de Brie (Cénozoique)"
+2,Sannoisien supérieur,g1CB,Calcaire de Brie stampien et meulières plio-quaternaire indifférenciées
+3,Sannoisien inférieur,g1a,Argiles et marnes vertes (Oligocène-Sannoisien)
+3,Sannoisien inférieur,g1AR,"Argile verte, Glaises à Cyrènes et/ou Marnes vertes et blanches (Argile verte de Romainville)"
+4,Ludien supérieur,e7b,Marnes supragypseuses (Eocène supérieur-Ludien supérieur)
+4,Ludien supérieur,e7MS,"Marnes supragypseuses : Marnes blanches de Pantin, Marnes bleues d'Argenteuil"
+5,Ludien inférieur,e7a,"Calcaire de Champigny, Marnes à Pholadomyes (Eocène supérieur-Ludien inférieur)"
+5,Ludien inférieur,e7a(1),Calcaire de Champigny: zones à calcite fibreuse (Eocène supérieur-Ludien inférieur)
+5,Ludien inférieur,e7a(2),"Calcaire de Champigny, silicifié (Eocène supérieur-Ludien inférieur)"
+5,Ludien inférieur,e7C,"Calcaire de Champigny, Calcaire de Château-Landon, Marnes de Nemours"
+5,Ludien inférieur,e7CChSi,Calcaire de Champigny (faciès silicifié)
+6,Bartonien,e6a,Calcaires lagunaires (Eocène moyen-Bartonien)
+6,Bartonien,e6b,Marnes et calcaires de Saint-Ouen (Eocène moyen-Bartonien)
+6,Bartonien,e6C,Calcaires lagunaires bartoniens
+6,Bartonien,e6CSO,"Calcaire de Saint-Ouen. Calcaires et marnes de Nogent-l'Artaud, Calcaire d'Ambreville, Calcaire de Branles"
+7,Lutétien,e5b,"Calcaires lutétiens, Marnes et caillasses (Eocène moyen-Lutétien)"
+7,Lutétien,e5CL,"Calcaires lacustres lutétiens indifférenciés (Calcaire de Provins, de Saint-Parres, de Darvault, de Nonville)"
+8,Yprésien,e4,"Grès, sables, argiles plastiques (Eocène inférieur-Yprésien)"
+8,Yprésien,e4AP,"Argile plastique, sables et grès"
+9,Campanien supérieur,c5b,Craie à Belemnitella mucronata et Magas pumilus (biozones i et j)(Crétacé supérieur-Campanien supérieur)
